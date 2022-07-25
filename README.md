@@ -9,3 +9,7 @@ description: Future Task Proposals
 {% content-ref url="ftp-1.md" %}
 [ftp-1.md](ftp-1.md)
 {% endcontent-ref %}
+
+{% content-ref url="ftp-2.md" %}
+[ftp-2.md](ftp-2.md)
+{% endcontent-ref %}
